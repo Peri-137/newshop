@@ -5,6 +5,7 @@ import shop.Shop;
 import java.util.Scanner;
 
 public class Main {
+    System.out.println("Пери жопа");
     public int numb = 0;
 
     public static void main(String[] args) {
